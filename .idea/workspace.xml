@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26046054-7620-4ffa-959d-ad87071caadd" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/londonappbrewery/Clima-Flutter.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tWm0NZQ4ieaUOca5ZMDcmcqM6h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../destini-challenge-starting" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="scratch.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/scratch.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.scratch.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\dell\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26046054-7620-4ffa-959d-ad87071caadd" name="Default Changelist" comment="" />
+      <created>1622892995826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622892995826</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1642147992883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642147992883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="227" key="#Notifications" timestamp="1642149083243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="227" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1642149083243" />
+    <state x="92" y="92" width="1182" height="544" key="AVDManager" timestamp="1642149776223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1642149776223" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1642147767040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1642147767040" />
+    <state x="554" y="262" key="Github.ShareDialog" timestamp="1642149102971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="554" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1642149102971" />
+    <state width="1323" height="286" key="GridCell.Tab.0.bottom" timestamp="1642149563061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="286" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1642149563061" />
+    <state width="1323" height="286" key="GridCell.Tab.0.center" timestamp="1642149563060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="286" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1642149563060" />
+    <state width="1323" height="286" key="GridCell.Tab.0.left" timestamp="1642149563059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="286" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1642149563059" />
+    <state width="1323" height="286" key="GridCell.Tab.0.right" timestamp="1642149563061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="286" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1642149563061" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1642150122508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1642150122508" />
+  </component>
+</project>
