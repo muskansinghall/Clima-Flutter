@@ -15,7 +15,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26046054-7620-4ffa-959d-ad87071caadd" name="Default Changelist" comment="first commit" />
+    <list default="true" id="26046054-7620-4ffa-959d-ad87071caadd" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,22 +124,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="554" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1642149102971" />
-    <state width="1323" height="286" key="GridCell.Tab.0.bottom" timestamp="1642149563061">
+    <state width="1323" height="286" key="GridCell.Tab.0.bottom" timestamp="1642189587735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1642149563061" />
-    <state width="1323" height="286" key="GridCell.Tab.0.center" timestamp="1642149563060">
+    <state width="1323" height="286" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1642189587735" />
+    <state width="1323" height="286" key="GridCell.Tab.0.center" timestamp="1642189587735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1642149563060" />
-    <state width="1323" height="286" key="GridCell.Tab.0.left" timestamp="1642149563059">
+    <state width="1323" height="286" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1642189587735" />
+    <state width="1323" height="286" key="GridCell.Tab.0.left" timestamp="1642189587735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1642149563059" />
-    <state width="1323" height="286" key="GridCell.Tab.0.right" timestamp="1642149563061">
+    <state width="1323" height="286" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1642189587735" />
+    <state width="1323" height="286" key="GridCell.Tab.0.right" timestamp="1642189587735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1642149563061" />
+    <state width="1323" height="286" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1642189587735" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1642150122508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
